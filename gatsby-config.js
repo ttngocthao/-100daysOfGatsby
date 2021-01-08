@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "100daysOfGatsby",
-    siteUrl: "",
+    siteUrl: "https://github.com/ttngocthao/-100daysOfGatsby",
   },
   plugins: [
     {
